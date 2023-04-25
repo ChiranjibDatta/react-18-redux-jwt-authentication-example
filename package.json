@@ -1,5 +1,5 @@
 {
-    "name": "testing code jwt",
+    "name": "jwtcode",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
