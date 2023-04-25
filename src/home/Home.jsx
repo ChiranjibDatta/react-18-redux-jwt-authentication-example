@@ -18,6 +18,7 @@ function Home() {
 
     return (
         <div>
+            <h1>Hello</h1>
             <h1>Hi {authUser?.firstName}!</h1>
             <p>You're logged in with React 18 + Redux & JWT!!</p>
             <h3>Users from secure api end point:</h3>
